@@ -1,0 +1,57 @@
+body{
+    background-image: url(../img/naranja.jpg);
+    background-attachment: fixed;
+}
+
+
+div{
+    /* background-color: brown; */
+    width: 500px;
+    height: 600x;
+    border-style:solid;
+    overflow: auto;
+    font-weight: bold;
+    font-size: 18px;
+    float: left;
+}
+
+div.ex2{
+    width: 324.28px;
+    height: 704px;
+    margin: auto;
+    border: 3px solid #73AD21;
+    float: left;
+}
+
+
+.pasos{
+    width:989px;
+    font-size: 18px;
+    font-weight: bold;    
+    text-align: justify;
+    margin-top: 200px;
+    
+          
+}
+
+h1{
+    font-size:80px;
+    text-shadow: 5px 5px rgb(49, 46, 48);
+}
+
+p{
+    font-size: 20px;
+    font-style: italic;
+    text-align: justify;
+     
+}
+ 
+.p{
+    font-weight: bold;
+} 
+
+h4{
+    font-size: 25px;
+    font-weight: 900;
+
+}

@@ -1,0 +1,23 @@
+body {
+    background-image: url(img/dollar.jpg);
+    background-size: cover;
+    background-color: rgba(red, green, blue, alpha)
+}
+
+h1 {
+    color: brown;
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande;
+}
+
+p {
+    color: blueviolet;
+    text-align: justify;
+    font-family: Arial, Helvetica,  sans-serif;
+}
+
+.parrafoPrincipal {
+    color: chartreuse;
+    font-size: 30px;
+}

@@ -1,0 +1,48 @@
+body{
+    background-image: url(../img/fondo.jpg);
+}
+
+div{
+    /* background-color: brown; */
+    width: 1000px;
+    height: 600x;
+    border-style:solid;
+    overflow: auto;
+    font-weight: bold;
+    font-size: 18px;
+    float: left;
+}
+
+.img{
+    /* margin: 0.1px; */
+    border: 1px solid rgb(15, 14, 14);
+    float: left;
+    width: 330.9px;
+    height: 300px;
+    
+}
+
+.img2{
+    /* margin: 2px; */
+    border: 1px solid rgb(26, 25, 25);
+    width: 330.9px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.ingredientes{
+    width:490px;
+    font-size: 18px;
+    font-weight: bold;    
+    text-align: justify;
+    
+}
+
+.instrucciones{
+    width:490px;
+    font-size: 18px;
+    font-weight: bold;    
+    text-align: justify;
+    float: left;
+
+}
